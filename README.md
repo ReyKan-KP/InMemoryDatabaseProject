@@ -32,7 +32,7 @@ Here’s a brief overview of the key files in this project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/InMemoryDatabaseProject.git
+   git clone https://github.com/ReyKan-KP/InMemoryDatabaseProject.git
    cd InMemoryDatabaseProject
    ```
 
